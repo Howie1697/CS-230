@@ -1,0 +1,7 @@
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client was a company that wanted to have their game cross platform, and able to handle multiple users at once while allowing the proper amount of security and paging to ensure limited attacks and lag to servers.
+
+What did you do particularly well in developing this documentation?
+Analying the differences between Linux, Windows and Apple based servers.
+What about the process of working through a design document did you find helpful when developing the code?
+The document aided me in making sure the code was fulfilling the clients wishes. 
